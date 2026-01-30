@@ -1,5 +1,5 @@
 {
-    "dashboardData": {
+    "dashboard": {
         "overview": [
             { "id": 1, "title": "Total Users", "value": "12,847", "change": "+12.5%", "trend": "up" },
             { "id": 2, "title": "Revenue", "value": "$48,352", "change": "+8.2%", "trend": "up" },
@@ -23,7 +23,7 @@
             { "id": 5, "user": "Eva Martinez", "action": "Generated monthly report", "time": "5 hours ago", "avatar": "EM" }
         ]
     },
-    "Analytics": {
+    "analytics": {
         "traffic": [
             { "name": "Direct", "value": 35, "color": "#3b82f6" },
             { "name": "Organic Search", "value": 28, "color": "#10b981" },
