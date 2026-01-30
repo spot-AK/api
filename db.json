@@ -58,8 +58,8 @@
         { "id": 7, "name": "Grace Lee", "email": "grace@example.com", "role": "Editor", "status": "Inactive", "joinDate": "2024-07-30" },
         { "id": 8, "name": "Henry Davis", "email": "henry@example.com", "role": "Viewer", "status": "Active", "joinDate": "2024-08-12" }
     ],
-    "productData": {
-        "products": [
+    "products": {
+        "items": [
             { "id": 1, "name": "Wireless Headphones", "category": "Electronics", "price": 129.99, "stock": 45, "sales": 234 },
             { "id": 2, "name": "Smart Watch", "category": "Electronics", "price": 299.99, "stock": 23, "sales": 156 },
             { "id": 3, "name": "Running Shoes", "category": "Sports", "price": 89.99, "stock": 67, "sales": 312 },
